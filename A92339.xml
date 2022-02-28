@@ -1,0 +1,221 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter to a member of Parliament, from his friend at Oxford concerning the settling gold and silver: offering some reasons for the advancing of silver at this present season; and settling guinea's.</title>
+            <author>S. R.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1696</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92339</idno>
+            <idno type="STC">Wing R75</idno>
+            <idno type="STC">ESTC R224675</idno>
+            <idno type="EEBO-CITATION">99895629</idno>
+            <idno type="PROQUEST">99895629</idno>
+            <idno type="VID">153273</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92339)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153273)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2357:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter to a member of Parliament, from his friend at Oxford concerning the settling gold and silver: offering some reasons for the advancing of silver at this present season; and settling guinea's.</title>
+                  <author>S. R.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1696?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: S.R.</note>
+                  <note>Drop-head title.</note>
+                  <note>Imprint from Wing (CD-ROM edition).</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Guinea (Coin) --  Early works to 1800.</term>
+               <term>Gold --  Early works to 1800.</term>
+               <term>Money --  England --  Early works to 1800.</term>
+               <term>Coinage --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:153273:1"/>
+            <head>A LETTER TO A Member of Parliament, From his Friend At OXFORD, Concerning the Settling <hi>Gold and Silver:</hi> OFFERING Some Reaſons for the Advancing of SILVER at this Preſent Seaſon; And SETTLING GUINEA'S.</head>
+            <opener>
+               <salute>SIR;</salute>
+            </opener>
+            <p>ACCORDING to your deſire I have ſent you my Thoughts about the Settling <hi>Gold</hi> and <hi>Silver</hi> Money; and though I am unable to Di<g ref="char:EOLhyphen"/>rect you whoſe Wiſdom and Prudence, hath given you a Character equal to moſt, yet at your Command, I have ſent you my Opinion</p>
+            <p>I will Premiſe Three Things,</p>
+            <list>
+               <item>
+                  <hi>Firſt,</hi> That there is a Neceſſity at this time, of Settling Guinea's, not only that they ſhall not exceed ſuch a Rate; but alſo, that they ſhall be Current at a certain Rate, elſe they will be as dead Caſh in the Kingdom, and the Trade dead too; and at this time when Silver is ſo ſcarce, What will Circulate Trade, and be the Medium of Commerce?</item>
+               <item>
+                  <hi>Second,</hi> That 'tis Neceſſary there be a Parity between Gold and Silver, either the Guinea's Reduced to Silver, or Silver Advanced to Gold.</item>
+               <item>
+                  <hi>Thirdly,</hi> That way of Setling them that hath the feweſt and leaſt Inconveniencies attending it, and that may hereafter be remedied: is Preferrable to that which hath the greateſt and moſt Evils attending, and which will be out of our power to Remedy; which way ſoever it be done, ſome Inconveniencies muſt and will Ariſe. — Theſe being granted me, which I conceive you will readily do; Then <hi>Sir,</hi> my Humble Thoughts with Submiſſion to Yours, is this, That at this preſent Time, and during the War, 'tis beſt to Advance Silver to the Guinea's about 25 or 26 <hi>Shillings,</hi> and not
+<pb n="2" facs="tcp:153273:2"/>to Reduce them to 21 <hi>s.</hi> or 21 <hi>s.</hi> — 6 <hi>d.</hi> the near parity with the preſent value <gap reason="illegible" extent="2 words">
+                     <desc>〈◊◊〉</desc>
+                  </gap> And to ſtrengthen this Opinion, I ſhall Offer a few Conſiderations.</item>
+            </list>
+            <p>
+               <hi>Firſt,</hi> The Reducing of Guinea's to 21 <hi>s.</hi> or 21 <hi>s.</hi> — 6 <hi>d.</hi> at this preſent ſeaſon, when Taxes are High, Money Scarce, and Trading Dull, will be ſo great a loſs to all Trad<g ref="char:EOLhyphen"/>ers in City and Country, as cannot be born without a Recompence, or half their Ruin: I doubt not but many who Trade for Hundreds, nay Thouſands a Ye<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ho upon the Ballance of Debtor and Creditor, are not worth what they ſhall Loſe, having great Numbers by them.— How this will digeſt I cannot tell, I wiſh there be no ſuch Complaint as the Children of <hi>Iſrael</hi> made to <hi>Moſes,</hi> that they had as good have been Slaves in <hi>Egypt,</hi> as to be brought out to Starve in the Wilderneſs: Some regard at this time of Charge, Trouble, <hi>&amp;c.</hi> ought to be had to the Peoples Satisfaction; 'tis a great loſs to ſome, to have them fall from 30 <hi>s</hi> to 26 <hi>s,</hi> and to others, if not to many, the ſame Perſons, from 26 <hi>s</hi> to 21 <hi>s.</hi> or 21 <hi>s</hi> — 6 <hi>d.</hi> if ſo Low Reduced.</p>
+            <p>The common ſaying againſt this, is, That People got by them when they roſe, and now they muſt be contented with their fall. I Anſwer, This would hold if it were the ſame individual Perſons; but ſome few ſharp Men who did the firſt, had the ſame cunning to avoid the other; 'tis the Common Traders, who got but little by the Riſe, will loſe moſt by the Fall.</p>
+            <p>
+               <hi>Second,</hi> On the other hand, if they be not Reduced, but Settled about 25 or 26, moſt will be Eaſie, and not Grumble at the former Loſs of Four Shillings each, becauſe Trade will be Brisk, and People know what to do, what to take for Goods, and what will go again without Loſs, to buy more, the want of which now puts a ſtop to all Trade, and will do ſo, if left to uncertainties, for one will take them at one Price, and another at another, <hi>&amp;c.</hi>
+            </p>
+            <p>Now I come to conſider Silver, and ſhall ſay a few things upon it, and that is,</p>
+            <p>
+               <hi>Firſt,</hi> If it be Coyned at this Weight and Price as Ordered, and not the Denomina<g ref="char:EOLhyphen"/>tion Advanced, it will be certainly carryed out of the Land, and this (if it be ſo) is that Inconveniency hinted at under the 3d thing Premiſed, that cannot be Remedied hereafter: I know what I here ſay of Mill'd Money, ſo ſoon as it comes out it will be carryed away, is a Common Notion, and meets with Common Anſwers; I will therefore en<g ref="char:EOLhyphen"/>deavour to Anſwer thoſe Anſwers, or Common Objections.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>1</label> 
+               <hi>Object.</hi> 1. Pray, How can that be? No more will go out for all that; what we owe Abroad we muſt Pay; and 'tis not becauſe you call a Crown Piece 6 <hi>s.</hi> or 6 <hi>s.</hi> —3 <hi>d,</hi> that they will take it ſo, for no more than the real Intrinſick Value will they accept it; 'tis all one if you ſend a Crown Piece and call it 6 <hi>s</hi> or 5 <hi>s,</hi> for the real Value only will it paſs, and you muſt ſend ſo many the more.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>1</label> 
+               <hi>Anſw.</hi> 1. This is True, But no more ſhall they have ſo, but what we really owe; I hope 'tis not our all.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>2</label> 
+               <hi>Anſw.</hi> 2. It is by Judicious Men believed that before, ſince, and about the time the Coynage Act Paſſed that 4 or 500000 Guinea's in Specie and Gold Coyned, was ſent over to us from beyond Sea, theſe Sold at 29 <hi>s.</hi> 6 <hi>d.</hi> 29 <hi>s.</hi> 28 <hi>s.</hi> 6 <hi>d.</hi>
+               <hi>&amp;c.</hi> as the Market would take off, and for <hi>Bank</hi> Bills <hi>Goldſmith</hi> Bills, <hi>&amp;c:</hi> the Poſſeſſors of which, Wait like the <hi>Serpent</hi> in the <hi>Wilderneſs</hi> to devour the Child, ſo ſoon as it ſhould be Born, and no ſooner comes the Money out, but they exerciſe their Fingers in telling of it, and ſend it away to the Perſons who ſent the Guinea's, the Bargain is a good Bargain, to ſell a Guinea at almoſt ſix Crown Pieces, whereas thoſe Gentlemen, would be much Baulk'd, if a Crown Piece were 6 <hi>s.</hi> or 6 <hi>s</hi> 3 d. then it would not be worth their While to ſend them away, but rather to Improve it, by puting it into the Land Bank; as Many did in the Million <hi>Adventure,</hi> or buy our Manufactures with it: Some of theſe Guinea's ſent over, was, I confeſs, Laid out in Goods. But moſt of them thus Sold, and if they can't get Silver enough, they may take their own Guinea's again at 21 <hi>s</hi> 6 <hi>d</hi> which they ſold at the prizes aforeſaid; if but ſo, 'tis pretty good profit, not much under 30 <hi>l</hi>
+               <hi> per Cent.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>2</label> 
+               <hi>Object.</hi> 2. Suppoſe thoſe Perſons, do get ſo much of Our Mill'd Money into Their hands, upon Their Bills for Guinea's Sold; Pray how will they ſend it away? I doubt not, but the Parliament have already or will make a Severe Law to pre<g ref="char:EOLhyphen"/>vent it.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſwer. </seg>
+               </label> 
+               <hi>I Anſwer.</hi> They may do ſo, and yet it will not Deter Men from it, for Intereſt will find out ways of doing of it; Witneſs the King of <hi>Spains</hi> Prohibition and Penalty on them that do ſo, and yet what Quantities are Continually ſent out: Wool a Bulky Commodity yet I ſuppoſe ſome gets over to <hi>France</hi> from us, and ſends Brandy and Claret in its Room to us. And Silver lying in ſo little Compaſs, may be Melted into <hi>Pigs,</hi> and put into <hi>Pipes</hi> and <hi>Hogs-heads</hi> of <hi>Suger, Wine, Oyl,</hi> and Forty things more that it would be endleſs to ſearch into.—I Suppoſe, but will not Aſſert, it may be
+<pb n="3" facs="tcp:153273:2"/>Melted with <hi>Lead</hi> and afterwards eaſily ſeperated. I will not ſay that <hi>Goldſmiths</hi> will Melt any of the Fine, Heavy Mill'd Money down, and ſend it a way, I hope Better things of them, but if I Miſtake not, ſome was Seiſed a Marching out very Lately: So much with Reſpect to Silver being Carryed away.</p>
+            <p>The Second Thing I Aſſert, is, That what Remains, will aſſuredly be Hoarded: I confeſs that is the way to ſecure ſome; but then the end of Money, which is to Circulate Trade, is Loſt; when all People are ſo fond of it, and reſolve it ſhall be the laſt they will part with: whereas if the Guineas be Settled as before mentioned, and the Crown Pieces at 6 <hi>s,</hi> or 6 <hi>s</hi> 3 <hi>d,</hi> and made to paſs in all Payments Current, and worded in the Act, that it ſhall be during the War only; leaving People room to believe, that one time or other they ſhall both be Reduced to their Intrinſick Value, (and they may be ſo when the War is over, and the ballance of Trade is on our ſide) this would make both Circulate and Trade wonderfully Quick: None will Hoard up any, for fear of loſing by it hereafter; and ſo all the Money in the Kingdom, even from the Miſers, will be brought out into Trade, the Bank, Loans, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>3</label> 
+               <hi>Object.</hi> 3. If Silver be Advanced, the Exchange will be ſo Altered that the Mer<g ref="char:EOLhyphen"/>chants muſt Pay Ten or Twelve <hi>per Cent.</hi> more for Goods they have from Abroad.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> 
+               <hi>Anſw.</hi> Suppoſe 'tis ſo for the preſent, this is an Inconveniency that may hereafter be Remedied, as is hereafter ſhewed: The Merchant paying Ten or Twelve <hi>per Cent.</hi> for Goods, he Sells them to the Wholeſale-man, and gets a Profit, the Wholeſale-man to the Retailer for a Profit, and he to the Spender; all get ſomething, and the Spender he pays all; But what is it? Suppoſe Sugar (to inſtance in one) 10 <hi>l.</hi>
+               <hi> per Cent.</hi> is 2 <hi>s.</hi>
+               <hi> per</hi> Pound and 1 <hi>d</hi> in 10 <hi>d.</hi> ſo he that pays for a pound of Sugar 4 <hi>d.</hi> ½ <hi>d.</hi> muſt now Money to buy it with. Beſides the Spender of this Sugar has ſome Commodity to Sell ſure, and then he gets the ſame by them that ſpend his. The ſame thing holds in moſt other things.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>4</label> 
+               <hi>Object,</hi> 4. I Grant this will not be much Felt Perſonally, becauſe you will get by one another. But this is a Cheat upon your ſelves; for what you Get or Looſe one with another is nothing, but 'tis what you Get or Looſe, with Reſpect to your Trade Abroad, that is to be Regarded: The Trade of a Nation, is like the Trade of one Man; and if you Buy Dear and Sell Cheap, you muſt be a ſufferer.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſwer, </seg>
+               </label> I <hi>Anſwer,</hi> We ſhall ſuffer ſomething ſo long as the Ballance of Trade is one the other ſide, and muſt do ſo, do what you will, Order the Money as you pleaſe, they will Rule the Market. But ſtill 'tis a leſs Inconveniency then Looſing all our Mo<g ref="char:EOLhyphen"/>ney, and the caſe may be altered if due Care be taken of our Shipping, to bring Goods Home from diſtant Foraign places, ſuch as our Neighbours want, and if we can ſend more to them, then we have from them, this Miſchief will be ſoon Leſſened, and not till then, take what Method you will, with the Silver or Gold either.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>5</label> 
+               <hi>Object,</hi> 5. If Silver be Advanced, all Commodities will be Dear, and tho you Mer<g ref="char:EOLhyphen"/>chants and Traders, ſays the Landlords and Country Gentlemen, get by one another, yet what ſhall we do, that have only an Eſtate to live on, we buy all of you at a dear rate, and have nothing to Sell you; So you get by us, and we cannot get by you, the thing lies hard upon us, we have Let our Lands upon Leaſe, and ſhall looſe a 5th. part of the real Yearly vallue, and a 100 l.<hi> per An.</hi> will buy no more Proviſion, <hi>&amp;c.</hi> then 80 <hi>l. per An.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſwer, </seg>
+               </label> 
+               <hi>Anſwer,</hi> This I confeſs is the Main and only <hi>Objection,</hi> and I ſhall conſider and An<g ref="char:EOLhyphen"/>ſwer it. 1ſt. That a Crown piece made Current at 6 <hi>s,</hi> 3 <hi>d.</hi> will buy more than that Crown piece at 5 <hi>s.</hi> the Stamp and Extrinſical Denomination does add an Eſtimable, tho not a real, Intrinſick Value; we could never buy ſo many goods for a Guinea at 21 <hi>s.</hi> 6 <hi>d.</hi> as when the ſame went Current at 30, tho not ſetled, Goods (eſpecially Home commodities) do not riſe ſo much, unleſs what was demanded by thoſe that ſent the <hi>Gui<g ref="char:EOLhyphen"/>nea's</hi> over: What was the reaſon, that a year ago for 5 ſilver (tho clipt) Shillings whoſe Intrinſick value was not above 3 <hi>s</hi> 6 <hi>d,</hi> or leſs, I could buy as much of a Commodity as for a Crown piece, whoſe Intrinſick Value was near 5 <hi>s,</hi> but only becauſe it went Cur<g ref="char:EOLhyphen"/>rent; the real Value not ſo much Regarded among Common Traders, as what it will Currantly paſs for. So that a Crown piece, when made to go for 6 <hi>s</hi> or 6 <hi>s</hi> 3 <hi>d</hi> by Law will within a little, buy as many Goods as if it was really and Intrinſically Worth it. To inſtance, take 5 Sixpences that are Current, and not Clipt within the Ring, whoſe real value is about 20 <hi>d</hi> or 22 <hi>d.</hi> and go to Market for Bread, Meat, <hi>&amp;c.</hi> or other Com<g ref="char:EOLhyphen"/>modities, and bargain for Goods, and tender the Money, and then ask what they will abate if you pay them a New Half Crown, whoſe intrinſick value is about 2 <hi>s</hi> 4 <hi>d.</hi> or thereabouts: The Anſwer will be, Truly very little or nothing abated; for ſays the perſon, I ſhall not melt it; thoſe that do may make a difference, but theſe will go as
+<pb n="4" facs="tcp:153273:3"/>current from me, and that is all I care: And the high price too of Goods in general, is not ſo much owing to our Money, as to the extraordinary demand that there was from Abroad; the reaſon of the riſe that is on Proviſions lately, is not ſo much from the badneſs of Money, as the uncertainty of it; and when that is removed, they will fall again.</p>
+            <p>But further, what falls ſhort of it, is the Landlords and Gentlemens Loſs, 'tis well, enough with Traders, and with the Tenants in the Country, who ſell their <hi>Beef, Motton,</hi> &amp;c. <hi>Corn, Mault, Oats</hi> and <hi>Hay,</hi> &amp;c. Something Dearer; They get, and the Land<g ref="char:EOLhyphen"/>lords looſe; why ſince 'tis ſo, let the Landords be in ſome Meaſure eaſied, and the Tenants who have large Stocks, ſome of them, (and nothing hath been laid upon them) pay a 4th. ar a 3 <hi>d</hi> part of the Land Tax; and this for ſome time, will not be more then the loſs by their Guinea's, if Reduced ſo low; This cannot be done this Seſſion, but it may be next, and if ſo, or ſome other way be found out to eaſe the Landlord, (who is the only Sufferer)' 'Tis my Opinion ſtill that Guinea's be ſettled at about 26 <hi>s.</hi> and Silver Ad<g ref="char:EOLhyphen"/>vanced for the prſent; Trade will be good, Taxes Chearfully Paid, the people pleaſed, and United the better, and the Money go further amongſt us at home and when the War is over, if there be Occaſion, Silver and Guinea's too, may be Lowered ſo much half yearly, or yearly, a ſmall Fund found out, to make up the loſs to the people, or otherwiſe.— Sir I have given you my thoughts Impartially, and pray you would paſs over the Style, the Dreſs, and the Tautology I have been guilty of; but I had ra<g ref="char:EOLhyphen"/>ther ſpeak thrice on the ſame thing then omit the thing it ſelf: I know what I hear ſay, will be ſtrenuouſly argued againſt, and condemned by thoſe whoſe Intereſt it is, it ſhould be otherwiſe. I deſire that the Infinite Wiſdom, might Preſide in your Councells and Debates to Order all for the Beſt.</p>
+            <closer>
+               <signed>I am Your Humble Servant, S. R.</signed>
+            </closer>
+            <postscript>
+               <head>POSTSCRIPT.</head>
+               <p>JUſt as this was going to the <hi>Preſs,</hi> I heard ſome talk, that the Parliament would not alter the Silver, but ſix Guinea's at 21 or 22 <hi>s,</hi> and ſo to paſs Current and for no more, but the Bank to take them in at 1 <hi>s</hi> or 2 <hi>s</hi> higher, to encourage the ſpeedy compleating the Subſcriptions, and the King to have the Money the ſooner: <hi>I</hi> anſwer, This is a kind of Neceſſitating Perſons to come in; our People had rather be drawn than drove: What do they now ſay? Why the Government has got the Silver, and now they are going to get all the Gold too, by tying us to loſe ſo much by our Guinea's, or we muſt bring them in: My Humble Thoughts, with ſubmiſſion to Yours, ſtill is, That if Gold and Silver be Settled as aforeſaid, and to paſs Current to King and People, it will ſo bring all out, that the Bank will be ſooner full, eſpecially if a good diſcount for prompt Payment be Allowed; which in my opinion is the better way, then ſuch a method about the Guinea's.</p>
+               <p>And another thing I have juſt met with is, That the Parliament having Settled Silver, to do and undo a thing the ſame Seſſion, would argue weakneſs, and be ſom<g ref="char:EOLhyphen"/>thing Diſhonourable: I Anſwer, Parliaments have made Acts one Seſſion, and have ſeen reaſon in a little time to alter them; and why may it not be ſo the ſame Seſſion, in a thing of ſuch an Abſtruſe and Difficult matter as this? Immutability is a proper<g ref="char:EOLhyphen"/>ty of the Divine Nature only, and incommunicable too, who by one intuitive act of his Underſtanding foreſees all things with their Conſequences and Events, and there<g ref="char:EOLhyphen"/>fore cannot ſee a reaſon afterwards Change, But with Men it is not ſo. Who ga<g ref="char:EOLhyphen"/>ther their Knovvledge by experience and comparing things; hence the Proverb <hi>Huma<g ref="char:EOLhyphen"/>num eſt Errare:</hi> A thing of this great Importance is to be thought on over and over again, and not to be omitted (if it may be Altered for the better) Becauſe 'tis once done, vvhich vvhither it may or no? I leave to your Conſideration, and to the reſt of our moſt Worthy Senators to Determine: And Pray God direct You.</p>
+               <closer>
+                  <signed>S R</signed>
+               </closer>
+            </postscript>
+         </div>
+      </body>
+   </text>
+</TEI>
